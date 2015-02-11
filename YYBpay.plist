@@ -156,7 +156,7 @@
 
                    <key>url</key>
 
-                   <string>http://mpos.tltpay.com:8080/pay/apk/YYBpay-resigned.ipa</string>
+                   <string>http://mpos.tltpay.com:8080/pay/apk/YYBpay.ipa</string>
 
                </dict>
 
@@ -176,7 +176,7 @@
 
                    <key>url</key>
 
-                   <string>http://mpos.tltpay.com:8080/pay/apk/image.57x57.png</string>
+                   <string>http://mpos.tltpay.com:8080/pay/apk/YYBpay.png</string>
 
                </dict>
 
@@ -198,7 +198,7 @@
 
                    <true/>
 
-                   <key>url</key><string>http://mpos.tltpay.com:8080/pay/apk/image.512x512.jpg</string>
+                   <key>url</key><string>http://mpos.tltpay.com:8080/pay/apk/YYBpay.png</string>
 
                </dict>
 
