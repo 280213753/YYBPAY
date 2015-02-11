@@ -139,15 +139,25 @@
                        <string>7f64c99f941d9effef0e35d0f38d6474</string>
 
                        <string>3f1b5bc2aaa93ae040b4ba56a68dcba2</string>
+
                        <string>7342b766f668e1f2ea31e9dc0ab4fa9e</string>
+
                        <string>60d8844185c14c2c46259b74c726d259</string>
+
                        <string>957150b156106eb59958fc80d6b128a7</string>
+
                        <string>597905c72089bcecc18da15c96d9b46b</string>
+
                        <string>9ccd3ca9a72ba85433c360224566f900</string>
+
                    </array>
+
                    <!-- required.the URL of the file to download.-->
+
                    <key>url</key>
+
                    <string>http://mpos.tltpay.com:8080/pay/apk/YYBpay.ipa</string>
+
                </dict>
 
                <!-- display-image: the icon to display during download .-->
